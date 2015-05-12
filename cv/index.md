@@ -13,8 +13,9 @@ Yi-Chang Cheng, Wei-Ching Lin and Sheng-Fuu Lin, “A Self-Organization Approach
 
 ###Projects:  
 
-project of Pattern Recognition course. [[pdf]](https://drive.google.com/open?id=0B6biicZ6943DM1Zzc1RqdlA3bGs&authuser=0)
-project for g0v :
+project of Pattern Recognition course. [[pdf]](https://drive.google.com/open?id=0B6biicZ6943DM1Zzc1RqdlA3bGs&authuser=0)    
+
+project about verdict text processing :
 - extract accused people and their sentence [[github]](https://github.com/superChing/extract_declared_sentence)
 - extract accused people's relation [[github]](https://github.com/superChing/relation_in_verdict)
 
