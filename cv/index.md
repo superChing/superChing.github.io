@@ -18,12 +18,12 @@ project of Pattern Recognition course. [[pdf]](https://drive.google.com/open?id=
 
 
 ###Miscellaneous
-Stackoverflow account (QA site about programming)
+Stackoverflow account (QA site about programming)  
 <a href="http://stackoverflow.com/users/2130573/wei-ching-lin">
 <img src="http://stackoverflow.com/users/flair/2130573.png" width="208" height="58" alt="profile for Wei-Ching Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Wei-Ching Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-Crossvalidated account (QA site about data)
+Crossvalidated account (QA site about data)  
 <a href="http://stats.stackexchange.com/users/30310/wei-ching-lin">
 <img src="http://stats.stackexchange.com/users/flair/30310.png" width="208" height="58" alt="profile for Wei-Ching Lin at Cross Validated, Q&amp;A for people interested in statistics, machine learning, data analysis, data mining, and data visualization" title="profile for Wei-Ching Lin at Cross Validated, Q&amp;A for people interested in statistics, machine learning, data analysis, data mining, and data visualization">
 </a>
