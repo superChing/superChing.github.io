@@ -21,12 +21,19 @@ Yi-Chang Cheng, Wei-Ching Lin and Sheng-Fuu Lin, “A Self-Organization Approach
 
 
 ###Miscellaneous
-My StackOverflow QA history (QA site about programming, the world's largest one )  
+My QA history on forum.
+
+- StackOverflow (QA site about programming, the world's largest one )  
 <a href="http://stackoverflow.com/users/2130573/wei-ching-lin">
 <img src="http://stackoverflow.com/users/flair/2130573.png" width="168" height="48" alt="profile for Wei-Ching Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Wei-Ching Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
-
-My CrossValidated QA history (QA site about data analysis)  
+- CrossValidated (QA site about data analysis)  
 <a href="http://stats.stackexchange.com/users/30310/wei-ching-lin">
 <img src="http://stats.stackexchange.com/users/flair/30310.png" width="168" height="48" alt="profile for Wei-Ching Lin at Cross Validated, Q&amp;A for people interested in statistics, machine learning, data analysis, data mining, and data visualization" title="profile for Wei-Ching Lin at Cross Validated, Q&amp;A for people interested in statistics, machine learning, data analysis, data mining, and data visualization">
 </a>
+
+
+My Coursera acomplishments:
+
+- [Machine Learning Foundation](https://drive.google.com/open?id=0B6biicZ6943DTE1IdUpGdV9GTms&authuser=0)
+- [Functional Programming Principle in Scala](https://drive.google.com/open?id=0B6biicZ6943DTE1IdUpGdV9GTms&authuser=0)
