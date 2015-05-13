@@ -23,7 +23,7 @@ project about verdict text processing :
 
 
 ###Miscellaneous
-My StackOverflow history (QA site about programming)  
+My StackOverflow history (QA site about programming, the world's largest one )  
 <a href="http://stackoverflow.com/users/2130573/wei-ching-lin">
 <img src="http://stackoverflow.com/users/flair/2130573.png" width="168" height="48" alt="profile for Wei-Ching Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Wei-Ching Lin at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
