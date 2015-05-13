@@ -10,7 +10,7 @@ title: CV
 - extract accused people and their sentence [[github]](https://github.com/superChing/extract_declared_sentence)
 - extract accused people's relation [[github]](https://github.com/superChing/relation_in_verdict)
 
-圖像辨識課程專題. [[pdf]](https://drive.google.com/open?id=0B6biicZ6943DM1Zzc1RqdlA3bGs&authuser=0)    
+<!--圖像辨識課程專題. [[pdf]](https://drive.google.com/open?id=0B6biicZ6943DM1Zzc1RqdlA3bGs&authuser=0)    -->
 
 
 ###Publications:  
