@@ -26,7 +26,7 @@ My MOOC acomplishments:
 
 - Coursera's [Machine Learning Foundation](https://drive.google.com/open?id=0B6biicZ6943DTE1IdUpGdV9GTms&authuser=0)
 - Coursera's [Functional Programming Principle in Scala](https://drive.google.com/open?id=0B6biicZ6943DTE1IdUpGdV9GTms&authuser=0)
-
+- Coursera's R Programming
 
 My QA history on forum.
 
